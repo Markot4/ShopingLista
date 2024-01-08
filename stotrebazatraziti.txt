@@ -1,0 +1,4 @@
+shopinglistaContext
+
+Tko ima razvojnu okolinu za ASP MVC. Visual studio, sql server
+Trebam napisati aplikaciju za shopping listu.
